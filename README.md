@@ -1,5 +1,7 @@
 # 变量
 
+ [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ 
 本页将介绍我们的“美本准入难度排名”项目当中所涉及到的变量。请注意目前的变量是我们基于现已拥有的极少数数据制作的，在严谨性方面可能需要随着数据的增多而调整。
 
 ## 学校背景 (选择一个)
